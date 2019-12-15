@@ -32,7 +32,7 @@ Still, the following faucets sites remain loyal to their members and continue di
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
-We'd like to hear from you! Please comment below. What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
+What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
 
 <div id="disqus_thread"></div>
 <script>
@@ -43,7 +43,7 @@ We'd like to hear from you! Please comment below. What is your experience with c
 /*
 var disqus_config = function () {
 this.page.url = 'https://www.staleblock.com/index.html';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = 'en-index'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
